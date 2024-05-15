@@ -1,0 +1,7 @@
+ipykernel
+jupyter
+torch
+torchvision
+torchaudio
+matplotlib
+torchinfo
